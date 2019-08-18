@@ -10,4 +10,4 @@ phases:
       - tar -cvzf riches.tgz .
 artifacts:
   files:
-    - riches.tg   
+    - riches.tg  
