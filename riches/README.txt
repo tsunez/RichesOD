@@ -14,6 +14,7 @@ For Tomcat 5.0, rename TOMCAT_HOME/common/endorsed/xml-apis.jar to xml-apis.jar.
 
 run ant in this directory
 
+
 copy dist/riches.war to ${TOMCAT_HOM
 E}/webapps
 NOTE: if you do not deploy via the .war you will additionally need to copy context.xml to ${TOMCAT_HOME}/conf/Catalina/localhost/riches.xml
