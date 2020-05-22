@@ -1,6 +1,6 @@
 Tomcat 5.0 Support (the recommended server for running RICHES is Tomcat 5.0.28)
 dfd
-Riches requires Java 5.
+Riches requires Java 5. Changed.
 
 TOMCAT_HOME is your top level tomcat directory
 
